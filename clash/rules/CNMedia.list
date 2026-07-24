@@ -1,5 +1,5 @@
 # 国内媒体规则
-# 字节、腾讯、优酷
+# 字节、优酷
 
 # ByteDance
 DOMAIN-SUFFIX,douyin.com
@@ -13,13 +13,6 @@ DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zjcdn.com
-
-# Tencent
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,gtimg.com
-DOMAIN-SUFFIX,qpic.cn
-DOMAIN-SUFFIX,qlogo.cn
 
 # Youku
 USER-AGENT,Youku*
