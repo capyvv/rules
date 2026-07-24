@@ -1,0 +1,39 @@
+# 国内媒体规则
+# 字节、腾讯、爱奇艺、优酷
+
+# ByteDance
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,byteimg.com
+
+# Tencent
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qlogo.cn
+
+# iQIYI
+USER-AGENT,QYPlayer*
+USER-AGENT,iQIYI*
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iq.com
+DOMAIN-SUFFIX,qiyi.com
+DOMAIN-SUFFIX,qy.net
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,qiyipic.com
+DOMAIN-SUFFIX,ppsimg.com
+DOMAIN-SUFFIX,71.am
+DOMAIN-SUFFIX,71edge.com
+
+# Youku
+USER-AGENT,Youku*
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,youku.tv
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,soku.com
